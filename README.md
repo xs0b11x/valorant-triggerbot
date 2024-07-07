@@ -1,9 +1,9 @@
-Valorant triggerbot made in Lua
+Valorant triggerbot feito em Lua
 
-To use it you need to install OBS and enable triggerbot.lua in scripts tab, you can bind it to side buttons like m4 or m5.
+Para usá-lo você precisa instalar o OBS e ativar triggerbot.lua na aba scripts, você pode vinculá-lo a botões laterais como m4 ou m5.
 
-The cheat is currently undetectable and will probably continue like that since it doesn't interact directly with valorant memory.
+O cheat é atualmente indetectável e provavelmente continuará assim, já que não interage diretamente com a memória de valorant.
 
-Note: you need to add a valorant game capture before loading triggerbot.lua and use purple outline inside valorant settings.
+Nota: você precisa adicionar uma captura de jogo valorant antes de carregar triggerbot.lua e usar contorno roxo dentro das configurações de valorant.
 
 https://obsproject.com/pt-br/download/
